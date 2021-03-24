@@ -87,8 +87,8 @@ git push origin module1-task1
 ```
 git remote add academy git@github.com:htmlacademy-adaptive/1123257-mishka-22.git
 ```
-Здесь мы добавляем (add) удаленный (remote) репозиторий под названием, к которому потом будем обращаться (academy) и ссылку по ssh
-<img src="https://user-images.githubusercontent.com/52506235/112289000-b643e380-8caf-11eb-82ff-3379127f3837.png">
+Здесь мы добавляем (add) удаленный (remote) репозиторий под названием, к которому потом будем обращаться (academy) и ссылку по ssh  
+<img src="https://user-images.githubusercontent.com/52506235/112289000-b643e380-8caf-11eb-82ff-3379127f3837.png">  
 3. Теперь если выполнить команду `git remote`, консоль покажет доступные удаленные репозитории и их там будет уже два:
 ```
 $ git remote
